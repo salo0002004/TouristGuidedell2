@@ -1,0 +1,13 @@
+package kea.ayan.touristguidedell2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TouristGuidedell2Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(TouristGuidedell2Application.class, args);
+    }
+
+}
