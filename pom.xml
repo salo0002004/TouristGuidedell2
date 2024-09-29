@@ -51,6 +51,10 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>3.3.4</version>
+                <configuration>
+                    <mainClass>kea.ayan.touristguidedell2.TouristGuidedell2Application</mainClass>
+                </configuration>
             </plugin>
         </plugins>
     </build>
